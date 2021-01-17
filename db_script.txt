@@ -1,7 +1,7 @@
 
 #Insert Data
 
-CREATE DATABASE coffeedb;
+CREATE DATABASE coffee;
 
 
 USE coffee;
